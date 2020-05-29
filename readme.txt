@@ -4,3 +4,4 @@
 4.add new file
 6.add to index
 7.add branch
+9.flick line
