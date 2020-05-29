@@ -4,4 +4,6 @@
 4.add new file
 6.add to index
 7.add branch
-9.flick line
+8.flict line
+9.flict line
+
